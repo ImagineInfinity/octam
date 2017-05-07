@@ -7,7 +7,7 @@ It's a text editor I want to make.
 ## Features
 * No Carpal tunnel syndrome|RSI
 * Fast
-* For people who are fine with taking time to learn
+* For people who are fine with taking time to learn stuff
 * Easyish to customise
 
 ... Well these might be the features. I haven't started yet.
