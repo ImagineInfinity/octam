@@ -12,5 +12,6 @@ It's a text editor I want to make.
 
 ... Well these might be the features. I haven't started yet.
 ## Where'd the name come from?
-*oc-t*: Four fingers used from the home row to do stuff. (Like save & move around)
+*oct-*: Four fingers used from the home row to do stuff. (Like save & move around)
+
 *-am*: From the *sam* text editor.
